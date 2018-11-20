@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>你的开发id</string>
+				<string>com.app.bananaBall</string>
 				<key>bundle-version</key>
 				<string>1.3.2</string>
 				<key>kind</key>
